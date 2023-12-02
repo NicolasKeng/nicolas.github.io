@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Curriculum Vitae"
+    url: /cv/
+    
+  - title: "Learnings"
+    url: /learnings/
+    
+  - title: "Lectures"
+    url: /lectures/
+    
+  - title: "Miscellanies"
+    url: /miscellanies/
